@@ -17,7 +17,7 @@ public class ArticleClickHandler {
 
     public void onSaveClick(View view, Article article) {
         Intent nextInt = new Intent(view.getContext(), DetailsActivity.class);
-        nextInt.putExtra("SELECTED_ARTICLE", article);
+        nextInt.putExtra("article", article);
         context.startActivity(nextInt);
     }
 }

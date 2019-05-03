@@ -11,7 +11,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertNotNull;
 
-public class UtilTest {
+public class NetworkUtilsTest {
 
     private NetworkUtils myUtil;
 

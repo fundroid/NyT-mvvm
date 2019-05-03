@@ -4,6 +4,7 @@ import android.databinding.BaseObservable;
 import android.databinding.Bindable;
 
 import com.google.gson.annotations.SerializedName;
+import com.ny.times.BR;
 
 import java.io.Serializable;
 
@@ -25,6 +26,10 @@ public class Article extends BaseObservable implements Serializable {
         this.title = title;
         this.byline = byline;
         this.published_date = published_date;
+
+        notifyPropertyChanged(BR.title);
+        notifyPropertyChanged(BR.byline);
+        notifyPropertyChanged(BR.published_date);
     }
 
     public String getTitle() {
