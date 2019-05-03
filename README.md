@@ -21,10 +21,10 @@ https://github.com/fundroid/NyT-mvvm.git
 ## Screens
 
 <b>Main article list Screen</b>
-<img src="images/img1.png" alt="Main article list"/>
+<img src="images/img1.jpg" alt="Main article list"/>
 
 <b>Details View Screen</b>
-<img src="images/img2.png" alt="Details View Screen"/>
+<img src="images/img2.jpg" alt="Details View Screen"/>
 
 ## Generating signed APK
 From Android Studio:
