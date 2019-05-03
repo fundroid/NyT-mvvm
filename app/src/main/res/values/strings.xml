@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NyT</string>
+    <string name="article_image">article_image</string>
+    <string name="no_data">No Data</string>
+</resources>
