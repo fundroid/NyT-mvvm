@@ -1,4 +1,4 @@
-# NT Times Assesment Example Android
+# NT Times Example Android MVVM
 
 This is a simple Android Application to consume the NY Times Most Popular Articles API and show a list of articles.
 
@@ -21,10 +21,10 @@ https://github.com/fundroid/NyT-mvvm.git
 ## Screens
 
 <b>Main article list Screen</b>
-<img src="images/img1.jpg" alt="Main article list"/>
+<img src="images/img1.jpg" alt="Main article list"  width="150" height="250"/>
 
 <b>Details View Screen</b>
-<img src="images/img2.jpg" alt="Details View Screen"/>
+<img src="images/img2.jpg" alt="Details View Screen"  width="150" height="250"/>
 
 ## Generating signed APK
 From Android Studio:
